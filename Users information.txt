@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> USERS INFORMATION </title>
+<body style="background-color:#69bf64;">
+
+<a href="file:///C:/Users/VINA%20CRISHELLA/Documents/Tuneng/2nd%20sem/Sir.Jonas/Activity2NavarroJohnAnthony.html"target="_self"Go to Facebook></a>
+	<a href="file:///C:/Users/VINA%20CRISHELLA/Documents/Tuneng/2nd%20sem/Sir.Jonas/Activity2NavarroJohnAnthony.html">    
+<img src="https://i.pinimg.com/originals/0c/f3/95/0cf3954624b73871ee4f191794deeca8.png"height=100"
+     <p style="color:#0000FF"> MY TOP 5 FAVORITE WEBSITES </p></a>
+
+<a href="file:///C:/Users/VINA%20CRISHELLA/Documents/Tuneng/2nd%20sem/Sir.Jonas/Activity2NavarroJohnAnthony.html"target="_self"Go to Facebook></a>
+	<a href="file:///C:/Users/VINA%20CRISHELLA/Documents/Tuneng/2nd%20sem/Sir.Jonas/Activity2NavarroJohnAnthony.html">    
+<img src="http://assets.stickpng.com/images/585e4bf3cb11b227491c339a.png"height=100"
+     <p style="color:#0000FF"> USERS INFORMATION </p></a>
+
+  </head>
+  </body>
+  </table>
+  </html>

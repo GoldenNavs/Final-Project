@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> ACTIVITY #2 </title>
+<body style="background-color:#69bf64;">
+
+<center> <h1 style="border:5px solid Tomato;">My Favorites</h1>
+
+<center><a href="https://www.facebook.com/"target="_self"Go to Facebook></a>
+	<a href="https://www.facebook.com/">
+	<img src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png"height=100"</a>	    
+  <p style="color:#0000FF"> Napili ko po ang facebook sa isa sa mga paborito kong gamitin dahil halos araw araw ay ginagamit ko ito. Sa pagchat ng friends, pagvoice call, pagvideo call. Kahit napakalayo ng kaibigan or family natin ay pwede natin malaman ang kanilang ginagawa araw araw dahil nagaupdate ka ng facebook base sa kanilang pagpost dito.</p>
+
+<center><h1 style="color:#FFA500">INSTAGRAM</h1></center> 
+  <p style="color:#FFA500">Ang instagram ay isa rin sa paborito kong site dahil as a person mas gusto kong iexpress ang aking sarili base sa picture. Madami ding magagandang effects sa picture ang pwedeng gamitin sa instagram. Pwede mo ding ifollow ang mga hinahangaan mong artista, basketball player at iba pa. Mas maganda rin sa instagram magvideocall dahil maganda ang quality dito.</p> 
+
+<center><h1 style="color:#FF0000">YOUTUBE</h1></center>
+ <p style="color:#FF0000">Ang youtube ay napaka helpful na website kaya kasama ito sa paborito kong website. Ginagamit ko itong youtube kapag gusto kong manood ng ibat ibang tuitorials sa school, daily life atbp. Marami din akong pinapanood na magagaling na bloggers tulad ng team payaman, Geo Ong, atbp.</p>
+
+<center><h1 style="color:#FFFF00">GOOGLE CLASSROOM</h1></center>
+ <p style="color:#FFFF00">Ang Google Classroom ay isa sa pinaka nagagamit na website ngayong pandemic dahil sa online class. Teachers and students ang gumagamit nito dahil dito pinopost ng teachers ang mga activity na dapat gawin. Sa panahon ngayon ito ang pinaka gamit na gamit na website lalo na ng students and teachers. </p>
+
+<center><h1 style="color:#EE82EE">TIKTOK</h1></center>
+  <p style="color:#EE82EE">Ang tiktok ay napakagandang intertainment website ngayon dahil sa mga maiikling video dito. Ginagamit ko ito minsan kapag akoy boring at minsan kapag akoy nagpapaantok. </p>
+
+
+
+
+  </head>
+  </body>
+  </table>
+  </html>
